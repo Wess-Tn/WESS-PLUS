@@ -1,0 +1,6 @@
+{
+  "name": "WESS PLUS",
+  "description": "Futuristic AI Assistant Browser with Multimodal Chat, Image Generation, Voice, Translator, Custom Themes, and BioScience Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
