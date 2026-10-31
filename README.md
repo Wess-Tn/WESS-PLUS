@@ -22,7 +22,7 @@ Embedding websites. Most sites (including Google, YouTube, Facebook, and Discord
 Remote media. Images and videos linked from the internet are not displayed inside the page, because the page's security policy blocks external media. Upload files instead.
 Real image generation. The built-in sketch is a simple SVG drawing. Photographic images require an external image service.
 Discord. The app can draft a server layout as text for you to paste into Discord. It does not create channels, which would need a bot and server.
-Logo path. The logo is loaded from an asset path that exists only inside the Claude artifact host. For self-hosting, replace the /_blob/... URLs with a local file such as logo.png.
+Logo path. The logo is loaded from an asset path that exists only inside the google artifact host. For self-hosting, replace the /_blob/... URLs with a local file such as logo.png.
 Speech. Voice input depends on the browser's Web Speech API and microphone permission. Some embedded previews block microphone access.
 Data stored in the browser
 The app uses localStorage only. Nothing is sent to a server by the app itself.
